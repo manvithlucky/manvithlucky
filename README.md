@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manvithlucky
+- 👋 Hi, I’m @manvith
 - 👀 I’m interested in ...Ethical Hacking
 
 # Cybersecurity Projects
