@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @manvithlucky
 - 👀 I’m interested in ...Ethical Hacking
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 # Cybersecurity Projects
 
@@ -15,20 +12,6 @@ A set of tools and scripts I've created or used in various penetration testing e
 
 - **Wireshark** - A network protocol analyzer that helps capture and analyze network packets. This tool is useful for identifying vulnerabilities in network traffic and understanding communication protocols. It’s widely used for network troubleshooting, analysis, and security auditing.
   - **Example Use**: Capturing unencrypted passwords in HTTP traffic, detecting suspicious network activity, analyzing packet flows for vulnerabilities.
-  
-- **Tool 2** - Description of the tool and its purpose.
-
-### 💻 Malware Analysis
-Projects involving malware reverse engineering and analysis.
-
-- **Malware Sample 1** - Description of the analysis process and findings.
-- **Malware Sample 2** - Description of the analysis process and findings.
-
-### 🛡️ Vulnerability Management
-Scripts and tools to identify, analyze, and manage vulnerabilities.
-
-- **Vulnerability Scanner 1** - How this tool works and what it helps detect.
-- **Vulnerability Report 1** - A report generated after scanning a system or network.
 
 ### 🌐 Web Application Security
 Exploring common vulnerabilities and testing web application security.
@@ -52,7 +35,7 @@ If you're a fellow cybersecurity enthusiast or professional, I’m open to colla
 
 - **Email**: manvithgoud12@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/manvith-goud-29147826b
-
+  
 ---
 
 **Disclaimer:** All projects are for educational and ethical purposes only. I do not encourage or endorse any illegal activities.
